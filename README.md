@@ -10,7 +10,7 @@ I'm a passionate **Software Developer** and **Machine Learning Enthusiast** who 
 - 🌐 Frontend: `React.js`, `HTML5`, `CSS3`, `Tailwind CSS`
 - 🔧 Backend: `Flask`, `Node.js (basic)`, `Firebase`, `MongoDB`, `MySQL`
 - 📊 Data & ML: `Pandas`, `NumPy`, `scikit-learn`, `Matplotlib`, `OpenCV`
-- 🛠 Tools: `VS Code`, `Git`, `GitHub`, `Linux`, `Render`, `Netlify`
+- 🛠 Tools: `VS Code`, 'Azure ML', `Git`, `GitHub`, `Linux`, `Render`, `Netlify`
 
 ---
 
